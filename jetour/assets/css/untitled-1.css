@@ -1,0 +1,16 @@
+.headerbg {
+  background-image: url("../../assets/img/peugeotphone%201.png");
+  background-position: 92% 100%;
+  background-repeat: no-repeat;
+  background-size: 25%;
+  background-color: rgba(255,255,255,0);
+  width: 100%;
+  min-height: 45vh;
+}
+
+@media (max-width: 576px) {
+  .container-fluid.d-flex.flex-grow-0.flex-shrink-0.headerbg {
+    background-image: none;
+  }
+}
+

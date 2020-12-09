@@ -1,0 +1,41 @@
+@media (max-width: 576px) {
+  .d-block.logito {
+    margin: auto;
+  }
+}
+
+@media (max-width: 300px) {
+  .d-block.logito {
+    margin: auto;
+  }
+}
+
+@media (min-width: 300px) {
+  .col-8.text-sm-center.d-xl-flex.flex-column.align-self-center.justify-content-xl-center.align-items-xl-center {
+    text-align: center;
+  }
+}
+
+.highlight-phone.headpatron {
+  margin: 0px;
+  margin-top: 85px;
+  background-color: rgba(255,255,255,0);
+  background-image: url("../../assets/img/Group%2017.png");
+  background-position: 100% 55%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  .highlight-phone.headpatron {
+    background: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .centroizquierda {
+    text-align: left !important;
+  }
+}
+
