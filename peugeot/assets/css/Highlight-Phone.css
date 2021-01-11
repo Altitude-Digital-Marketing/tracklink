@@ -107,3 +107,13 @@
   opacity: 0.2;
 }
 
+@media (min-width: 400px) {
+  .img-headingb {
+    width: 100% !important;
+  }
+}
+
+.img-headingb {
+  width: 80%;
+}
+
